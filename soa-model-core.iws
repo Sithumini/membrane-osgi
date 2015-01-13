@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1abae375-0b32-4ff3-bd8e-7b68db28e85f" name="Default" comment="" />
+    <list default="true" id="1abae375-0b32-4ff3-bd8e-7b68db28e85f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/soa-model-core.ipr" afterPath="$PROJECT_DIR$/soa-model-core.ipr" />
+    </list>
     <ignored path="soa-model-core.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -197,6 +199,9 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HierarchyBrowserManager">
     <option name="SHOW_PACKAGES" value="false" />
@@ -565,12 +570,12 @@
       <changelist id="1abae375-0b32-4ff3-bd8e-7b68db28e85f" name="Default" comment="" />
       <created>1421147216036</created>
       <updated>1421147216036</updated>
-      <workItem from="1421147216712" duration="1569000" />
+      <workItem from="1421147216712" duration="1615000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1569000" />
+    <option name="totallyTimeSpent" value="1615000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
